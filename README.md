@@ -4,22 +4,17 @@
 </div>
 
 
-### WordPress & Laravel Developer
+# Full-Stack WordPress & Laravel Developer
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working on Theme Development
+
+- 🌱 I’m currently learning React & Vue 
+
+- ❓ Ask me about anything related to full-stack WordPress and related technologies
 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
-
-
-- ❓ Ask me about anything related to MERN stack and related technologies
-
-
-- ⚡ Fun fact: I use tabs over spaces
-
-
-<br />
+<br/>
 
 
 ## My Skill Set
@@ -27,13 +22,11 @@
     <tr>
         <td valign="top" width="33%">
             ### Frontend
-            <div align="center">
-                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
-                        height="50" /></a>
-                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"
-                        height="50" /></a>
+            <div align="left">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
                 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS"
                         height="50" /></a>
