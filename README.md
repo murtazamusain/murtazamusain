@@ -3,21 +3,19 @@
         align="center" style="width: 100%" />
 </div>
 
-
 # WordPress & Laravel Developer
 
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
-
+- 🔭 I’m currently working on
+  [Github Profilinator](https://github.com/rishavanand/github-profilinator)
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes
 
-
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-
 - ⚡ Fun fact: I use tabs over spaces
+
 ## Connect with me
+
 <div align="center">
     <a href="https://twitter.com/iamrishavanand" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
@@ -51,6 +49,7 @@
 I am a software developer specializing in various programming languages and technologies. Currently, I'm open to opportunities and looking to enhance my skills in web development and software engineering.
 
 ## Skills & Technologies
+
 <div width="100%">
     
 </div>
@@ -62,10 +61,11 @@ I am a software developer specializing in various programming languages and tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+###Contact with me
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/murtazamusain/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
@@ -75,7 +75,7 @@ I am a software developer specializing in various programming languages and tech
 
 ## Recent Activity
 
-- Created a new branch in [murtazamusain](https://github.com/murtazamusain/murtazamusain)  
-- Forked [Youtube-code](https://github.com/emetdas/Youtube-code)  
+- Created a new branch in
+  [murtazamusain](https://github.com/murtazamusain/murtazamusain)
+- Forked [Youtube-code](https://github.com/emetdas/Youtube-code)
 - Updated [hello-world](https://github.com/murtazamusain/hello-world)
-
