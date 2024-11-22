@@ -14,7 +14,7 @@
 ## Skills & Technologies
 
 <div align="left">
-  <img  style="border-radius:50%;border:blue 2px solid;" src="https://github.com/murtazamusain/profile-files/blob/main/html.webp" width="60" height="60"  alt="HTML logo"  />
+  <img  style="border-radius:50%;border:blue 2px solid;" src="https://github.com/murtazamusain/profile-files/blob/main/html.webp" width="60" height="60" border="2px solid blue" border-radius="50%" alt="HTML logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
