@@ -129,9 +129,12 @@
                     align="center" />
             </div>
         </td>
+        
     </tr>
 </table>
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazamusain&show_icons=true) 
 
 
 
