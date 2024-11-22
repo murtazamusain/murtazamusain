@@ -17,7 +17,6 @@
 
 
 - ⚡ Fun fact: I use tabs over spaces
-<br />
 ## Connect with me
 <div align="center">
     <a href="https://twitter.com/iamrishavanand" target="_blank">
@@ -53,7 +52,7 @@ I am a software developer specializing in various programming languages and tech
 
 ## Skills & Technologies
 <div width="100%">
-    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma&perline=8)](https://skillicons.dev)
+    
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma&perline=8)](https://skillicons.dev)
