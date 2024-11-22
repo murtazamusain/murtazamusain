@@ -13,7 +13,13 @@
 
 ## Skills & Technologies
 
-I am a software developer specializing in various programming languages and technologies. Currently, I'm open to opportunities and looking to enhance my skills in web development and software engineering.
+<div align="left">
+  <img src="https://github.com/murtazamusain/profile-files/blob/main/html.webp" width="52" height="40" alt="HTML logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 ## Contact with me
 <div align="left">
