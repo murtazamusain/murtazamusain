@@ -116,32 +116,9 @@
             alt=instagram style="margin-bottom: 5px;" />
     </a>
 </div>
-
-
 <br />
-
-
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <div align="center"><img
-                    src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"
-                    align="center" />
-            </div>
-        </td>
-        
-    </tr>
-</table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazamusain&show_icons=true) 
-
-
-
-
 <br />
-
-
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your
