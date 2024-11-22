@@ -4,7 +4,7 @@
 </div>
 
 
-### WordPress & Laravel Developer
+# WordPress & Laravel Developer
 
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
@@ -118,13 +118,6 @@
 </div>
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your
-readme file.
-<!-- BLOG-POST-LIST:END -->
-
 <br />
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
