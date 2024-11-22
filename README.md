@@ -34,6 +34,7 @@ I am a software developer specializing in various programming languages and tech
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
+
 ## Recent Activity
 - Created a new branch in
   [murtazamusain](https://github.com/murtazamusain/murtazamusain)
