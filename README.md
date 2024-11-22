@@ -116,9 +116,6 @@
             alt=instagram style="margin-bottom: 5px;" />
     </a>
 </div>
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
@@ -127,3 +124,22 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
+I am a software developer specializing in various programming languages and technologies. Currently, I'm open to opportunities and looking to enhance my skills in web development and software engineering.
+
+## Skills & Technologies
+
+html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtazamusain&show_icons=true&count_private=true&theme=radical)  
+
+- **Public Repositories**: 3  
+- **Followers**: 4  
+- **Following**: 1
+
+## Recent Activity
+
+- Created a new branch in [murtazamusain](https://github.com/murtazamusain/murtazamusain)  
+- Forked [Youtube-code](https://github.com/emetdas/Youtube-code)  
+- Updated [hello-world](https://github.com/murtazamusain/hello-world)
