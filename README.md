@@ -57,13 +57,21 @@ I am a software developer specializing in various programming languages and tech
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma&perline=8)](https://skillicons.dev)
 
-## GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtazamusain&show_icons=true&count_private=true&theme=radical)  
+###
 
-- **Public Repositories**: 3  
-- **Followers**: 4  
-- **Following**: 1
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 ## Recent Activity
 
