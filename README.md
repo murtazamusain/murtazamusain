@@ -13,7 +13,13 @@
 
 - ⚡ Fun fact: I use tabs over spaces
 
-## Connect with me
+## Skills & Technologies
+
+<br />
+
+I am a software developer specializing in various programming languages and technologies. Currently, I'm open to opportunities and looking to enhance my skills in web development and software engineering.
+
+
 <div align="left">
     <a href="https://www.linkedin.com/in/murtazamusain/" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   
@@ -23,24 +29,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-<br />
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>
-I am a software developer specializing in various programming languages and technologies. Currently, I'm open to opportunities and looking to enhance my skills in web development and software engineering.
-
-## Skills & Technologies
-
-<div width="100%">
-    
-</div>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma&perline=8)](https://skillicons.dev)
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false&order=1" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false&order=1" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
 ## Recent Activity
 
