@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on Theme development
 
-- 🌱 I’m currently learning Rect & Vue 
+- 🌱 I’m currently learning Rect & Vue Js
 
 - ❓ Ask me about anything related to full-stact WordPress & Laravel related technologies
-
-- ⚡ Fun fact: I use tabs over spaces
 
 ## Skills & Technologies
 
@@ -36,8 +34,8 @@ I am a software developer specializing in various programming languages and tech
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
+<br/>
 ## Recent Activity
-
 - Created a new branch in
   [murtazamusain](https://github.com/murtazamusain/murtazamusain)
 - Forked [Youtube-code](https://github.com/emetdas/Youtube-code)
