@@ -13,11 +13,9 @@
 
 ## Skills & Technologies
 
-<br />
-
 I am a software developer specializing in various programming languages and technologies. Currently, I'm open to opportunities and looking to enhance my skills in web development and software engineering.
 
-
+##Contact with me
 <div align="left">
     <a href="https://www.linkedin.com/in/murtazamusain/" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   
