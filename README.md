@@ -14,6 +14,7 @@
 ## Skills & Technologies
 
 <div align="left">
+    <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60"></img>
     <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60"></img>
     <img src="https://github.com/murtazamusain/profile-files/blob/main/tailwind%20logo.webp" width="60"></img>
     <img src="https://github.com/murtazamusain/profile-files/blob/main/javascript.webp" width="60"></img>
@@ -23,6 +24,7 @@
     <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" width="60"></img>
     <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60"></img>
     <img src="https://github.com/murtazamusain/profile-files/blob/main/php.webp" width="60"></img>
+    <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="60"></img>
     <img src="https://github.com/murtazamusain/profile-files/blob/main/laravel-logo.png" width="60" alt="laravel logo"  />
     <img src="https://github.com/murtazamusain/profile-files/blob/main/wordpress_logo.webp" width="60"></img>
     <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="60"></img>
