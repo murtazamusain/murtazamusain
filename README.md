@@ -14,7 +14,7 @@
 ## Skills & Technologies
 
 <div align="left">
-    <img src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+    <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50"></img>
   <img src="https://github.com/murtazamusain/profile-files/blob/main/html.webp" width="50" height="50" border="2px solid blue" border-radius= "50%" alt="HTML logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
