@@ -5,40 +5,15 @@
 
 # WordPress & Laravel Developer
 
-- 🔭 I’m currently working on
-  [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working on Theme development
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
+- 🌱 I’m currently learning Rect & Vue 
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to full-stact WordPress & Laravel related technologies
 
 - ⚡ Fun fact: I use tabs over spaces
 
 ## Connect with me
-
-<div align="center">
-    <a href="https://twitter.com/iamrishavanand" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
-            alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://dev.to/rishavanand" target="_blank">
-        <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white
-            alt=devto style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/rishavanand" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-            alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/iamrishavanand" target="_blank">
-        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white
-            alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/iamrishavanand" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
-            alt=instagram style="margin-bottom: 5px;" />
-    </a>
-</div>
-
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
 <br />
@@ -60,7 +35,7 @@ I am a software developer specializing in various programming languages and tech
   <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
+<br/>
 ###Contact with me
 
 <div align="left">
