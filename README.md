@@ -128,7 +128,7 @@ I am a software developer specializing in various programming languages and tech
 
 ## Skills & Technologies
 
-html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,bootstrap,redux,php,laravel,jquery,mysql,wordpress,webflow,git,github,figma&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
