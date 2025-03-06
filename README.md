@@ -34,11 +34,13 @@
 </div>
 
 <br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=true&layout=compact&card_width=50%&langs_count=10&theme=default&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murtazamusain&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 ## Contact with me
 <div align="left">
