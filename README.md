@@ -33,13 +33,15 @@
     <img src="https://github.com/murtazamusain/profile-files/blob/main/figma-logo.webp" width="55"></img>
 </div>
 
-<br/>
-# 📊 GitHub Stats:
+## GitHub Stats:
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />    
 </div>
+
 ## Contact with me
+
 <div align="left">
     <a href="https://www.linkedin.com/in/murtazamusain/" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
