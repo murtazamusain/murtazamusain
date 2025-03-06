@@ -36,12 +36,8 @@
 <br/>
 # 📊 GitHub Stats:
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
-    
-</div>
-<div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=murtazamusain&theme=dark&hide_border=false" height="auto" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="languages graph"  />    
 </div>
 ## Contact with me
 <div align="left">
