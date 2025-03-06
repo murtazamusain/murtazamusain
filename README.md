@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazamusain&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquanghuy-09&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </div>
 
 ## Contact with me
