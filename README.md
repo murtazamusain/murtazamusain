@@ -36,8 +36,8 @@
 ## GitHub Stats:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" width="50%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" width="50%" alt="languages graph"  />    
+  <img src="https://github-readme-stats.vercel.app/api?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" width="45%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazamusain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" width="45%" alt="languages graph"  />    
 </div>
 
 ## Contact with me
