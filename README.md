@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/2SnS96dS/cover-photo.jpg"
+    <img src="https://i.postimg.cc/Fz0qc7k2/cover-photo-01.jpg"
         align="center" style="width: 100%" />
 </div>
 
