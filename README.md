@@ -3,7 +3,7 @@
         align="center" style="width: 100%" />
 </div>
 
-# WordPress & Laravel Developer
+# WordPress Developer
 
 - 🔭 I’m currently working on Theme development
 
