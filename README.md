@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/LinkedIn%20Cover%20Photo%20(1500%20x%20500%20px).png"
+    <img src="https://i.postimg.cc/2SnS96dS/cover-photo.jpg"
         align="center" style="width: 100%" />
 </div>
 
