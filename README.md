@@ -14,23 +14,22 @@
 ## Skills & Technologies
 
 <div align="left">
-    <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="60"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/tailwind%20logo.webp" width="60"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/javascript.webp" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="70"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/jquery%20logo.webp" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/react/original.svg" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="60"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/php.webp" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="60"></img>
+    <img src="https://i.postimg.cc/QxhPz4vs/html.webp" width="60"></img>
+    <img src="https://i.postimg.cc/mDLYLz95/css.webp" width="60"></img>
+    <img src="https://i.postimg.cc/9ftPHtD9/bootstrap.webp" width="60"></img>
+    <img src="https://i.postimg.cc/fTpfcb4V/tailwindcss-little.png" width="60"></img>
+    <img src="https://i.postimg.cc/PfFWHq5S/javascript.webp" width="70"></img>
+    <img src="https://i.postimg.cc/X7GwY0Z4/jquery-logo.webp" width="60"></img>
+    <img src="https://i.postimg.cc/W4bmjqgf/7578023.png" width="60"></img>
+    <img src="https://i.postimg.cc/66H0Q0YL/php.webp" width="60"></img>
+    <img src="https://i.postimg.cc/QdqgRJ9T/7578013.png" width="60"></img>
+    <img src="https://i.postimg.cc/GhHjTyf0/laravel.webp" width="60"></img>
+    <img src="https://i.postimg.cc/Wzf6fNhf/wordpress.webp" width="60"></img>
     <img src="https://github.com/murtazamusain/profile-files/blob/main/laravel-logo.png" width="60" alt="laravel logo"  />
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/wordpress_logo.webp" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="60"></img>
-    <img src="https://devicon-website.vercel.app/api/git/original.svg" width="60"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/github%20logo.webp" width="60"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/figma-logo.webp" width="55"></img>
+    <img src="https://i.postimg.cc/wv1hRKWX/git-icon.png" width="60"></img>
+    <img src="https://i.postimg.cc/cHFQrxM4/github-logo.webp" width="60"></img>
+    <img src="https://i.postimg.cc/NFLRX3p8/figma-logo.webp" width="60"></img>
+    <img src="https://i.postimg.cc/ZKZPLpN9/shopify-icon.png" width="60"></img>
 </div>
 
 ## GitHub Stats:
