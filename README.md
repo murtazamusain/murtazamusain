@@ -1,9 +1,5 @@
-<div align="center">
-    <img src=""
-        align="center" style="width: 100%" />
-</div>
 
-# WordPress Developer
+# Web Developer
 
 - 🔭 I’m currently working on Theme development
 
