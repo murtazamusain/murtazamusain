@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/QdTcwLsS/cover-photo-01.jpg"
+    <img src=""
         align="center" style="width: 100%" />
 </div>
 
@@ -25,11 +25,11 @@
     <img src="https://i.postimg.cc/QdqgRJ9T/7578013.png" width="60"></img>
     <img src="https://i.postimg.cc/GhHjTyf0/laravel.webp" width="60"></img>
     <img src="https://i.postimg.cc/Wzf6fNhf/wordpress.webp" width="60"></img>
-    <img src="https://github.com/murtazamusain/profile-files/blob/main/laravel-logo.png" width="60" alt="laravel logo"  />
+    <img src="https://i.postimg.cc/ZKZPLpN9/shopify-icon.png" width="60"></img>
     <img src="https://i.postimg.cc/wv1hRKWX/git-icon.png" width="60"></img>
     <img src="https://i.postimg.cc/cHFQrxM4/github-logo.webp" width="60"></img>
     <img src="https://i.postimg.cc/NFLRX3p8/figma-logo.webp" width="60"></img>
-    <img src="https://i.postimg.cc/ZKZPLpN9/shopify-icon.png" width="60"></img>
+    
 </div>
 
 ## GitHub Stats:
