@@ -1,8 +1,8 @@
 
 # Full-Stuck Web Developer
 
-Laravel & WordPress
-Custom Themes • WooCommerce • ACF • Clean Code & Creative Web Solutions.
+- Laravel & WordPress
+- Custom Themes • WooCommerce • ACF • Clean Code & Creative Web Solutions.
 - ❓ Ask me about anything related to full-stact WordPress & Laravel related technologies
 
 ## Skills & Technologies
