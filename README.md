@@ -7,7 +7,7 @@
 
 ## Skills & Technologies
 
-<div align="left">
+<div align="left" style="display:flex; gap:10px;">
     <img src="https://i.postimg.cc/QxhPz4vs/html.webp" width="60"></img>
     <img src="https://i.postimg.cc/mDLYLz95/css.webp" width="60"></img>
     <img src="https://i.postimg.cc/9ftPHtD9/bootstrap.webp" width="60"></img>
