@@ -1,10 +1,8 @@
 
-# Web Developer
+# Full-Stuck Web Developer
 
-- 🔭 I’m currently working on Theme development
-
-- 🌱 I’m currently learning Rect & Vue Js
-
+Laravel & WordPress
+Custom Themes • WooCommerce • ACF • Clean Code & Creative Web Solutions.
 - ❓ Ask me about anything related to full-stact WordPress & Laravel related technologies
 
 ## Skills & Technologies
