@@ -7,7 +7,7 @@
 
 ## Skills & Technologies
 
-<div align="left" style="display:flex; gap:10px;">
+<div align="left"">
     <img src="https://i.postimg.cc/QxhPz4vs/html.webp" width="60"></img>
     <img src="https://i.postimg.cc/mDLYLz95/css.webp" width="60"></img>
     <img src="https://i.postimg.cc/9ftPHtD9/bootstrap.webp" width="60"></img>
@@ -35,14 +35,14 @@
 
 ## Contact with me
 
-<p align="left" style="display:flex;">
+<div align="left" style="display:flex;">
     <a href="https://www.linkedin.com/in/murtazamusain/" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</p>
+</div>
 
 ## Recent Activity
 - Created a new branch in
